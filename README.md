@@ -2,4 +2,4 @@
 
 ### Technologies Used:- HTML & CSS only.
 
-### Find me on
+### Find me on Insta
