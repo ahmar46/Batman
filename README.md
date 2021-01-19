@@ -2,6 +2,6 @@
 
 ### Technologies Used:- HTML & CSS only.
 
-### Find me on Instagram: [@electrifying_codes][instagra].
+### Find me on Instagram: [@electrifying_codes][instagram].
 
 [instagram]: https://www.instagram.com/electrifying_codes/
